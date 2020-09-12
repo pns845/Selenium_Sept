@@ -1,3 +1,6 @@
 # Selenium_Sept
-Selenium_Sep
-Types of locators:id,name,class name,xpath,css,link text,partial link text,tag name
+
+Types of locators:id,name,class name,xpath,css,link text,partial link text,tag name,
+driver.find_element(BY.ID)
+
+
