@@ -2,5 +2,14 @@
 
 Types of locators:id,name,class name,xpath,css,link text,partial link text,tag name,
 driver.find_element(BY.ID)
-
-
+-----------
+multiple elements
+driver.find_elements_by_name
+----------
+css syntax:
+3 types as below:
+tag[attribute='value']
+# for id,. for class
+tag#value,tag.value
+if we are using id or class directly we can give #value,.class
+.class1.class2.class3
